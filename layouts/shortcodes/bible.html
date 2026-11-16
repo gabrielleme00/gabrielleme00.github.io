@@ -1,0 +1,6 @@
+<blockquote class="bible-quote">
+  <p>"{{ .Inner | markdownify }}"</p>
+  <footer>
+    — <strong>{{ .Get "ref" }}</strong>{{ with .Get "version" }} ({{ . }}){{ end }}
+  </footer>
+</blockquote>

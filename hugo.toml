@@ -1,0 +1,4 @@
+baseURL = 'https://gabrielleme00.github.io/'
+theme = 'papermod'
+locale = 'en-us'
+title = 'Gabriel Leme'
