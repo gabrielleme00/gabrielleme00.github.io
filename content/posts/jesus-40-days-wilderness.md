@@ -1,7 +1,8 @@
 +++
 date = '2026-11-16T16:11:39-03:00'
-draft = true
+draft = false
 title = "Jesus' 40 Days in the Wilderness"
+tags = ["bible"]
 +++
 
 There are many Old Testament prophecies fulfilled by Jesus Christ. Most of them can
